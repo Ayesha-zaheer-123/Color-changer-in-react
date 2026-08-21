@@ -1,5 +1,8 @@
 import './Background.css'
- function Background() {
-
+import { useState } from 'react'
+  export default function Background() {
+return(
+    <>
+    </>
+)
 }
-export default Background
