@@ -1,4 +1,3 @@
-
 import { useState } from 'react'
   export default function Background() {
     const[color,changeColor]=useState("white")
